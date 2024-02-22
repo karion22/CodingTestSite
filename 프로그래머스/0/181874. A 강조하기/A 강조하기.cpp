@@ -1,0 +1,15 @@
+#include <string>
+#include <vector>
+
+using namespace std;
+
+string solution(string myString) {    
+    for(char& c : myString)
+    {
+        if(c == 'a')
+            c = 'A';
+        else if(c >= 'B' && c <= 'Z')
+            c = tolower(c);
+    }
+    return myString;
+}
