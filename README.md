@@ -29,5 +29,5 @@
 | 2021.02  | .NET 4.x Equivalent |  Roslyn | 9.0 |
 | 2020.02 ~ 2021.01 | .NET 4.6 Equivalent | Roslyn | 8.0 |
 | 2019.02 ~ 2020.01 | .NET 4.6 Equivalent | Roslyn | 7.3 |
-| 2018.03 ~ 2019.01 | .NET 3.5 Equivalent \n .NET 4.6 Equivalent | mcs \n Rolsyn | 4 \n 7.3 |
+| 2018.03 ~ 2019.01 | .NET 3.5 Equivalent <br> .NET 4.6 Equivalent | mcs <br> Rolsyn | 4 <br> 7.3 |
 | Prev | Unknown | Unknown | - |
